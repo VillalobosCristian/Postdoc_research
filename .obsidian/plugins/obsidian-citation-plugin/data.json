@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{title}}",
+  "literatureNoteFolder": "papers/",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ntags: [paper]\n---\n\n# {{title}}\n\n**Authors:** {{authorString}}  \n**Year:** {{year}}  \n**DOI:** {{DOI}}  \n**URL:** {{URL}}\n\n## Summary\n\n\n## Key Points\n-\n\n## Notes\n\n\n## Related Papers\n-",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "My Library.bib"
+}
