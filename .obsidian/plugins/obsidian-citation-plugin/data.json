@@ -1,6 +1,6 @@
 {
   "citationExportFormat": "biblatex",
-  "literatureNoteTitleTemplate": "{{title}}",
+  "literatureNoteTitleTemplate": "{{citekey}} {{title}}",
   "literatureNoteFolder": "papers/",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ntags: [paper]\nDOI: {{DOI}}  \nURL: {{URL}}\n\n---\n\n# {{title}}\n\n**Authors:** {{authorString}}  \n\n## Summary\n{{abstract}}\n\n## Key Points\n-\n\n## Notes\n\n\n## Related Papers\n-",
   "markdownCitationTemplate": "[@{{citekey}}]",
