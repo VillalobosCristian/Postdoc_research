@@ -15,10 +15,10 @@ URL:
 **Journal:** Soft Matter
 
 ## Summary
-Compares [[confocal-microscopy]] vs [[phase-contrast-microscopy]] for measuring [[bending-rigidity]] of [[GUVs]] using [[fluctuation-spectroscopy]]. Both methods give consistent results when done correctly.
+Compares [[confocal-microscopy]] vs [[phase-contrast-microscopy]] for measuring [[bending-rigidity]] of [[GUVs]] using [[../projects/GUVs/Fluctuation-spectroscopy]]. Both methods give consistent results when done correctly.
 
 ## Key Points
-- [[Fluctuation-spectroscopy]] (flickering analysis) measures [[membrane-fluctuations]] to determine [[bending-rigidity]]
+- [[../projects/GUVs/Fluctuation-spectroscopy]] (flickering analysis) measures [[membrane-fluctuations]] to determine [[bending-rigidity]]
 - Vesicle contour is analyzed using [[Fourier-analysis]] 
 - Both confocal and phase contrast work if: proper focus, avoid drift, correct for optical artifacts
 - Common errors: wrong focal plane, sample drift, improper background subtraction
@@ -29,13 +29,13 @@ Important for my GUV work - I should use fluctuation analysis to measure membran
 Need to implement proper [[contour-detection]] in my analysis pipeline.
 
 ## Relevance to My Work
-Could combine [[fluctuation-spectroscopy]] with [[optothermal-heating]] to study how temperature affects [[membrane-mechanics]].
+Could combine [[../projects/GUVs/Fluctuation-spectroscopy]] with [[optothermal-heating]] to study how temperature affects [[membrane-mechanics]].
 
 Related to my [[MSCA-2025]] proposal - measuring membrane properties.
 
 ## Related Concepts
 - [[bending-rigidity]]
-- [[fluctuation-spectroscopy]]
+- [[../projects/GUVs/Fluctuation-spectroscopy]]
 - [[GUVs]]
 - [[membrane-fluctuations]]
 - [[Helfrich-model]]
